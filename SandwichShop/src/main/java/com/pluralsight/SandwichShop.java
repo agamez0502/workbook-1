@@ -43,7 +43,7 @@ public class SandwichShop {
         double loadedPrice = 0;
         if (loaded.equalsIgnoreCase("y")) {
 
-            
+
             if (order == 1) {
                 loadedPrice = 1.00;
             } else if (order == 2) {
