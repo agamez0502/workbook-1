@@ -102,4 +102,4 @@ It is the first step toward becoming a confident and capable software engineer. 
 
 ### ✨ Final Slay Note 💅  
 Start simple, stay consistent, and let every command, class, and commit bring you closer to mastery.  
-Keep learning, keep building — and always keep it **La Dev Creativa**. 💅💻🚀  
+Keep learning and keep building. 💅💻🚀  
